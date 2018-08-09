@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0xfdf)
+    Vendor:   NVIDIA
+    VRAM:     1991 MB
+    Driver:   10.18.13.6839
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Renan\Documents\unity_tutorials\Bomberboy\Bomberboy_part3\Bomberboy\Bomberboy_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 3286x1080 at -1920,-139
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.507880 ms
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.819276 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.386720 ms (FindLiveObjects: 0.034484 ms CreateObjectMapping: 0.020116 ms MarkObjects: 0.313645 ms  DeleteObjects: 0.017652 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1734 -> priority: 1 
+  Thread -> id: f24 -> priority: 1 
