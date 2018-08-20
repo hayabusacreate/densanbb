@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: play
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: 
+    localPosition: {x: 0.37557358, y: -0.41574758, z: 0.2225579}
+    localRotation: {x: 0, y: 0, z: 0.0038398118, w: 0.99999267}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53"
+    localPosition: {x: -0.0488486, y: -0.08089101, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.71350515, w: 0.7006501}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u5DE6\u8DB3"
+    localPosition: {x: -0.09024213, y: 0.058935646, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.9961839, w: 0.08728048}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u5DE6\u8DB3/\u5DE6\u8DB31"
+    localPosition: {x: 0.09314736, y: -0.0013810167, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.054745357, w: 0.9985004}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u53F3\u8DB3"
+    localPosition: {x: -0.09385452, y: -0.041264668, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.99029374, w: -0.13899024}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u53F3\u8DB3/\u53F3\u8DB31"
+    localPosition: {x: 0.09314736, y: -0.0013810167, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.12369839, w: 0.9923198}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u5DE6\u624B"
+    localPosition: {x: 0.1291832, y: 0.11225289, z: 0.00000032782555}
+    localRotation: {x: 0.19967438, y: -0.00537466, z: -0.9788419, w: 0.04438299}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u5DE6\u624B/\u5DE6\u624B1"
+    localPosition: {x: 0.11276683, y: 0.0036006402, z: -0.00020447397}
+    localRotation: {x: 0, y: 0, z: 0.8412467, w: 0.54065144}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u5DE6\u624B/\u5DE6\u624B1/\u5DE6\u624B2"
+    localPosition: {x: 0.0668747, y: 0.0030764937, z: 0.00025896175}
+    localRotation: {x: 0, y: 0, z: 0.20847984, w: 0.9780267}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u53F3\u624B"
+    localPosition: {x: 0.12281251, y: -0.111189455, z: 0.00000333786}
+    localRotation: {x: 0.3166319, y: -0.020206584, z: -0.94640803, w: -0.06039705}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u53F3\u624B/\u53F3\u624B1"
+    localPosition: {x: 0.101416126, y: -0.00012676045, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.78420043, w: -0.62050766}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u53F3\u624B/\u53F3\u624B1/\u53F3\u624B2"
+    localPosition: {x: 0.053412013, y: 0.0015865862, z: -0.000000040978193}
+    localRotation: {x: 0.017108642, y: 0.11271264, z: -0.14909273, w: 0.9822294}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8/\u8EAB\u4F53/\u53F3\u624B/\u53F3\u624B1/\u53F3\u624B2/\u30D4\u30C3\u30B1\u30EB"
+    localPosition: {x: 0.06829572, y: -0.00038931286, z: -0.000049392227}
+    localRotation: {x: 0.037492245, y: 0.14067967, z: -0.4127982, w: 0.8991114}
+    localScale: {x: 1, y: 1, z: 1}
