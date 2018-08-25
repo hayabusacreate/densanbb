@@ -468,6 +468,25 @@ AnimationClip:
     path: "\u7D75/\u70AD\u9271\u592B\u53F3(\u30D1\u30FC\u30C4\u5206\u3051)_5"
     classID: 114
     script: {fileID: 11500000, guid: 5ec17ceaa560940e9bf0dbeafc3a1971, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: "\u7D75/\u30B7\u30E7\u30C3\u30AF\u30A6\u30A7\u30FC\u30D6\u30A8\u30D5\u30A7\u30AF\u30C81(\u53F3)"
+    classID: 1
+    script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
   m_WrapMode: 0
@@ -552,6 +571,13 @@ AnimationClip:
       script: {fileID: 0}
       typeID: 4
       customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2784501165
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 2844939023
@@ -2012,6 +2038,25 @@ AnimationClip:
     attribute: localEulerAnglesRaw.z
     path: "\u9AA8/\u8EAB\u4F53"
     classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: "\u7D75/\u30B7\u30E7\u30C3\u30AF\u30A6\u30A7\u30FC\u30D6\u30A8\u30D5\u30A7\u30AF\u30C81(\u53F3)"
+    classID: 1
     script: {fileID: 0}
   m_EulerEditorCurves:
   - curve:
